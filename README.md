@@ -5,6 +5,6 @@ FPGA는 Field Programmable Gate Array의 약어로서, 디지털 회로의 논�
 
 # FPGA 튜토리얼
 
-[VHDL이란 무엇인가??] (https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221246429818&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
-[VHDL 프로그래밍의 기본 구조] (https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221249220831&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
-[VHDL 프로그래밍 기본 문법 및 데이터형] (https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221249221793&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
+1. [VHDL이란 무엇인가??](https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221246429818&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
+2. [VHDL 프로그래밍의 기본 구조](https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221249220831&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
+3. [VHDL 프로그래밍 기본 문법 및 데이터형](https://blog.naver.com/PostView.nhn?blogId=ansdbtls4067&logNo=221249221793&parentCategoryNo=&categoryNo=&viewDate=&isShowPopularPosts=false&from=postView)    
